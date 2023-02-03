@@ -1,0 +1,39 @@
+*{
+  letter-spacing: 0.08em;
+}
+
+p {
+  margin-top: 1em
+}
+
+#carousel {
+  margin: auto;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+
+#table-wrapper {
+  width: 95%;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+
+#pagination-wrapper {
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 3rem;
+}
+
+#production-notes-wrapper {
+  margin: auto;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+  padding: 1em;
+}
+
+
+tr:hover{
+  cursor:pointer;
+}
+
