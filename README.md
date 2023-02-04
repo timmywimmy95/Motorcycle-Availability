@@ -1,6 +1,20 @@
-# Getting Started with Create React App
+# Motorcycle Parking Availability in Singapore
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was to help Singaporean motorcyclists find available parking lots in the city state. Many shopping malls & smaller districts (e.g. Town/CBD) do not provide motorcycle parking lots and many times, motorcyclists resort to parking illegally (e.g. roadside, pedestrian pavements) and get fined.
+
+I created this project using the following technologies & libraries:
+- React.JS
+- Bootstrap 5
+- Material Design
+- Javascript
+- HTML
+- CSS
+
+<!-- 
+    What your application does,
+    Why you used the technologies you used,
+    Some of the challenges you faced and features you hope to implement in the future. -->
+
 
 ## Available Scripts
 
